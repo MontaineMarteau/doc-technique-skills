@@ -4,7 +4,7 @@ Skills et commandes pour Claude Code qui permettent de produire de la documentat
 
 Cette boîte à outils accompagne le talk **"Créer la doc technique à partir du code, sans être dev ni embêter les devs"**, donné au meetup IA Innovateurs de Toulouse le 21 mai 2026.
 
-> Voir le talk en ligne : *(lien à venir : montaine-consulting.fr/talks/doc-sans-dev)*
+> Voir le talk en ligne : **[montaine-consulting.fr/talks/doc-sans-dev](https://montaine-consulting.fr/talks/doc-sans-dev/)**
 
 ## L'idée en deux phrases
 
